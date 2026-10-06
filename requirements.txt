@@ -1,0 +1,8 @@
+# Core dependencies for the Intrusion Detection System
+# Add packages here as technical decisions are made during development.
+
+# Candidate libraries under evaluation:
+# scapy>=2.5.0          # Packet sniffing, dissection, and crafting
+# pyshark>=0.6          # Python wrapper for tshark
+# pyyaml>=6.0           # Signature and rule configuration parsing
+# pytest>=8.0.0         # Unit and integration testing
